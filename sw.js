@@ -1,4 +1,4 @@
-const CACHE = 'watermark-v1';
+const CACHE = 'watermark-v3';
 const FILES = [
   '/watermark-stamp/',
   '/watermark-stamp/index.html',
